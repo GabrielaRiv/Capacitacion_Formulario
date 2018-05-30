@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormularioApp</string>
+    <string name="title">Registro de Datos</string>
+    <string name="title1">Datos Recibidos</string>
+    <string name="form_name">Nombre:</string>
+    <string name="form_lastname">Apellido:</string>
+    <string name="form_email">Correo Electronico:</string>
+    <string name="form_pass">Contraseña:</string>
+    <string name="form_button">Enviar</string>
+    <string name="form_name_hint">Digite su Nombre</string>
+    <string name="form_lastname_hint">Digite su Apellido</string>
+    <string name="form_email_hint">Digite su Correo Electronico</string>
+    <string name="form_pass_hint">Digite su Contraseña</string>
+</resources>
